@@ -2,8 +2,6 @@ hello world
 
 hello OceanLeonAI
 
-<<<<<<< Updated upstream
 here insert a new line
-=======
->>>>>>> Stashed changes
+
 test stash
